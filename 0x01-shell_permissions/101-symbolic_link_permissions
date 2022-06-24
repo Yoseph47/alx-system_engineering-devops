@@ -1,2 +1,2 @@
 #!/binbash
-chown -h vincent:staff _hello
+chown _hello vincent:staff
