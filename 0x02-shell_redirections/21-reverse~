@@ -1,0 +1,3 @@
+#!/bin/bash
+rev
+chmod u+x 21-reverse
