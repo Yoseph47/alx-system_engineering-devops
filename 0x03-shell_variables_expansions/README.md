@@ -1,0 +1,1 @@
+0, creating alias using ls and rm *
